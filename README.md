@@ -1,13 +1,14 @@
-## Hi there 👋
+## Sejam Bem-Vindos ao Meu Mundo !
 
-<!--Cabeçalhos-->
+Olá, me chamo Ricardo Santana
+Estou cursando técnico Desenvolvimento de Sistema (Dev)
+![Acesse o meu linkedin]()
 
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título 6
+---------
+
+## Minhas Tecnologias
+![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg)
+![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg)
 
 <!--
 **ricsan95/ricsan95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
