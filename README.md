@@ -1,14 +1,16 @@
 ## Sejam Bem-Vindos ao Meu Mundo !
 
-Olá, me chamo Ricardo Santana
+Olá, me chamo Ricardo de Santana
 Estou cursando técnico Desenvolvimento de Sistema (Dev)
-![Acesse o meu linkedin]()
+![Acesse o meu linkedin](https://www.linkedin.com/in/ricardo-de-santana-82ba91133/)
 
 ---------
 
 ## Minhas Tecnologias
-![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg)
-![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" width="100"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS" width="100"/>
+
 
 <!--
 **ricsan95/ricsan95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
